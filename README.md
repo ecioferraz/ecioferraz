@@ -1,7 +1,7 @@
 # Hello, there!
 
  
-## My name is Écio Ferraz!
+## My name is Écio!
  
 
 :computer: I'm a Web Development student!
