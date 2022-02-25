@@ -12,7 +12,7 @@
 
 :books: I’m currently studying back-end.
 
-:outbox_tray: 2022 Goals: keep learning as much as possible and find a new job.
+:outbox_tray: 2022 Goals: keep learning as much as possible and find my first job in technology.
 
  
 
