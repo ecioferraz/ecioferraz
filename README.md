@@ -4,7 +4,7 @@
 ## My name is Écio!
  
 
-:computer: I'm a Web Development student!
+:computer: I'm a Full Stack Web Development student!
 
 :house_with_garden: I’m from Brazil.
 
