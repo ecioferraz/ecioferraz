@@ -10,8 +10,6 @@
 
 :open_file_folder: This is my portfolio: https://ecioferraz.github.io/
 
-:books: I’m currently studying Java.
-
 :outbox_tray: 2022 Goals: keep learning as much as possible and find my first job in technology.
 
  
