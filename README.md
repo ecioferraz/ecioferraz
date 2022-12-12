@@ -10,7 +10,7 @@
 
 :open_file_folder: This is my portfolio: https://ecioferraz.github.io/
 
-:outbox_tray: 2022 Goals: keep learning as much as possible and find my first job in technology.
+:outbox_tray: 2023 Goals: keep learning as much as possible and find my first job in technology.
 
  
 
