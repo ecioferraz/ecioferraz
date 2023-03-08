@@ -10,7 +10,7 @@
 
 :open_file_folder: This is my portfolio: https://ecioferraz.github.io/
 
-:mortar_board: Currently learning Dart and Flutter.
+:mortar_board: Currently learning Dart, Flutter and UX Design.
 
 :outbox_tray: 2023 Goals: keep learning as much as possible and find my first job in technology.
 
