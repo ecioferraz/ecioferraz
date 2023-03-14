@@ -1,18 +1,18 @@
-# Hello, there!
+# Olá!
 
  
-## My name is Écio!
+## Meu nome é Écio!
  
 
-:computer: I'm a Full Stack Web Developer!
+:computer: Desenvolvedor Web Full Stack!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: Brasileiro, de Recife, Pernambuco.
 
-:open_file_folder: This is my portfolio: https://ecioferraz.github.io/
+:open_file_folder: Meu portfólio: https://ecioferraz.github.io/
 
-:mortar_board: Currently learning Dart, Flutter and UX Design.
+:mortar_board: Atualmente me dedicando a estudar ![Language](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white), ![Language](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) e UX Design.
 
-:outbox_tray: 2023 Goals: keep learning as much as possible and find my first job in technology.
+:outbox_tray: Metas para 2023: aprender o quanto puder e conseguir meu primeiro emprego em tecnologia.
 
  
 
