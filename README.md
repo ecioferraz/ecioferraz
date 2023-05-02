@@ -4,7 +4,7 @@
 ## Meu nome é Écio!
  
 
-:computer: Desenvolvedor Web Full Stack!
+:computer: Desenvolvedor Front End!
 
 :house_with_garden: Brasileiro, de Recife, Pernambuco.
 
