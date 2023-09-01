@@ -12,8 +12,6 @@
 
 :mortar_board: Atualmente me dedicando a estudar ![Language](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white), ![Language](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) e UX Design.
 
-:outbox_tray: Metas para 2023: aprender o quanto puder e conseguir meu primeiro emprego em tecnologia.
-
  
 
 ## Vamos conversar?
